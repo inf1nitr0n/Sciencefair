@@ -37,7 +37,7 @@ class Settings():
     sizex=250
     sizey=500
     layers=3
-    epochs=5
+    epochs=50
     learning_rate=2e-5
     run_eagerly=False
 
